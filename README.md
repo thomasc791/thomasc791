@@ -9,11 +9,11 @@ Currently pursuing my Master’s at TU Delft, specializing in **High-Tech Engine
 
 ## 🚀 Notable Projects
 
-- [**Ant Colony Optimization**](https://github.com/thomasc791/ant-colony)  
-  Simulating ant colony algorithms for solving pathfinding and optimization problems.
+- [**Physareum Simulation**](https://github.com/thomasc791/ant-colony)  
+  Physareum simulation in real-time.
 
 - [**Wave Function Simulation**](https://github.com/thomasc791/waves)  
-  Modeling and visualizing wave functions with computational tools.
+  Modeling and visualizing wave functions in real-time with a fast finite difference shader written in OpenGL.
 
 ---
 
