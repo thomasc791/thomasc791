@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Thomas 👋
 
-<!--
-**thomasc791/thomasc791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master Student in Mechanical Engineering**  
+Currently pursuing my Master’s at TU Delft, specializing in **High-Tech Engineering**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Programming:** Julia, Python, some C++, GLSL
+- **Interests:** Simulation, computational modeling, and algorithmic design for engineering systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Notable Projects
+
+- [**Ant Colony Optimization**](https://github.com/thomasc791/ant-colony)  
+  Simulating ant colony algorithms for solving pathfinding and optimization problems.
+
+- [**Wave Function Simulation**](https://github.com/thomasc791/waves)  
+  Modeling and visualizing wave functions with computational tools.
+
+---
+
+Feel free to connect or check out more of my work!  
+<!-- Add your social links here, e.g. LinkedIn, personal website -->
