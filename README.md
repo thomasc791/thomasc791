@@ -20,7 +20,7 @@ Currently pursuing my Master’s at TU Delft, specializing in **High-Tech Engine
 
 ---
 
-- [**Portfolio Website**](https://github.com/thomasc791)
+- [**Portfolio Website**](https://thomasc791.github.io)
   WebGPU implementations of my most interesting projects. The website is fully interactive, so try moving your mouse or clicking/scrolling.
 
 Feel free to connect or check out more of my work!  
