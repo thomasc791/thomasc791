@@ -1,4 +1,4 @@
-# Hi there, I'm Thomas 👋
+# Hi there, I'm Thomas Cheng👋
 
 🎓 **Master Student in Mechanical Engineering**  
 Currently pursuing my Master’s at TU Delft, specializing in **High-Tech Engineering**.
@@ -20,5 +20,8 @@ Currently pursuing my Master’s at TU Delft, specializing in **High-Tech Engine
 
 ---
 
+- [**Portfolio Website**](https://github.com/thomasc791)
+  WebGPU implementations of my most interesting projects. The website is fully interactive, so try moving your mouse or clicking/scrolling.
+
 Feel free to connect or check out more of my work!  
-<!-- Add your social links here, e.g. LinkedIn, personal website -->
+[**Thomas Cheng LinkedIn**](https://nl.linkedin.com/in/thomas-cheng-b2819624b)
