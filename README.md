@@ -4,7 +4,7 @@
 Currently pursuing my Master’s at TU Delft, specializing in **High-Tech Engineering**.
 
 ## 🛠️ Tech Stack
-- **Programming:** Julia, Python, some C++, GLSL
+- **Programming:** Julia, Python, C++, GLSL
 - **Interests:** Simulation, computational modeling, and algorithmic design for engineering systems
 
 ## 🚀 Notable Projects
