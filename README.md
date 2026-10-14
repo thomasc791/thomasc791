@@ -9,6 +9,9 @@ Currently pursuing my Master’s at TU Delft, specializing in **High-Tech Engine
 
 ## 🚀 Notable Projects
 
+- [**AirPlay 2 protocol**](https://github.com/thomasc791/airplay-protocol)  
+  Reverse engineered AirPlay 2 protocol for Linux.
+
 - [**Physarum Simulation**](https://github.com/thomasc791/physarum)  
   Physarum simulation in real-time.
 
